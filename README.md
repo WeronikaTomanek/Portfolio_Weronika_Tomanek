@@ -39,4 +39,12 @@ Bug report -> https://docs.google.com/spreadsheets/d/1J-nkVVECo8uvTsgKOB_R2ewS4V
 ## Project OLX 
 
 Bugs: 
-* https://docs.google.com/spreadsheets/d/1PdGnuj49Zj73YG2Q62FylDRe15OB2CCj0W9ickUMHO0/edit#gid=1481076662 
+* https://docs.google.com/spreadsheets/d/1PdGnuj49Zj73YG2Q62FylDRe15OB2CCj0W9ickUMHO0/edit#gid=1481076662
+
+# Tools
+
+* DevTools
+* Jira
+* GitHub
+* Postman
+
