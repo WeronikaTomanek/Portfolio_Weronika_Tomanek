@@ -31,7 +31,12 @@ I am looking forward to my first daily meeting as part of the team!
 
 ## Project "Scout Panel" https://scouts-test.futbolkolektyw.pl/pl
 
-My test cases based on the Scout Panel application's exploratory testing
+My test cases based on the Scout Panel application's exploratory testing -> https://docs.google.com/spreadsheets/d/1J-nkVVECo8uvTsgKOB_R2ewS4VMu0LWiVm8DK2wnXS8/edit#gid=0 
+Bugs -> https://docs.google.com/spreadsheets/d/10ALEwhpN4zQpzgcwVWldDd-N_220q063KdgfcjrnMm0/edit#gid=1481076662
+Bug report -> https://docs.google.com/spreadsheets/d/1J-nkVVECo8uvTsgKOB_R2ewS4VMu0LWiVm8DK2wnXS8/edit#gid=0
 
 
-## Project OLX -> 
+## Project OLX 
+
+Bugs: 
+* https://docs.google.com/spreadsheets/d/1PdGnuj49Zj73YG2Q62FylDRe15OB2CCj0W9ickUMHO0/edit#gid=1481076662 
