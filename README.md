@@ -23,9 +23,9 @@ I am looking forward to my first daily meeting as part of the team!
 ## Courses 
 
 * SQL w 120 minut
-* Dare IT: zostań testerem manualnym| w trakcie
-* Umiejętności jutra (Google & SGH - marketing internetowy, zarządzanie projektami)|
-* 2023 Basic Scrum i Agile - „Udemy”|2023
+* Dare IT: zostań testerem manualnym| 2023 -> [whole work]https://github.com/WeronikaTomanek/challange_portfolio_Weronika/edit/main/README.md
+* Umiejętności jutra (Google & SGH - marketing internetowy, zarządzanie projektami)|2023
+* Basic Scrum i Agile - „Udemy”|2023
 * Umiejętności miękkie i praca zespołowa - „Unicon”|2021
 * MICROSOFT EXCEL - „Prolearning”| 2019
 
