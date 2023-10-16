@@ -29,5 +29,9 @@ I am looking forward to my first daily meeting as part of the team!
 * Umiejętności miękkie i praca zespołowa - „Unicon”|2021
 * MICROSOFT EXCEL - „Prolearning”| 2019
 
+## Project "Scout Panel" https://scouts-test.futbolkolektyw.pl/pl
+
+My test cases based on the Scout Panel application's exploratory testing
 
 
+## Project OLX -> 
