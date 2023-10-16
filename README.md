@@ -16,4 +16,17 @@ I am looking forward to my first daily meeting as part of the team!
 * "Przepis na REST API" Olga Huzarewicz -> ebook
 * "AI w testowaniu oprogramowania" Cezary Łukasik -> ebook
 * https://getistqb.com/ -> ISTQB knowledge and quizzes
+* Rafał Podraza ->  udemy online courses, blog, YouTube
+* testuj.pl -> blog and support group on Facebook
+* 
+
+## Courses 
+
+* SQL w 120 minut
+* Dare IT: zostań testerem manualnym| w trakcie
+* Umiejętności jutra (Google & SGH - marketing internetowy, zarządzanie projektami)| 2023 Basic Scrum i Agile - „Udemy”|2023
+* Umiejętności miękkie i praca zespołowa - „Unicon”|2021
+* MICROSOFT EXCEL - „Prolearning”| 2019
+
+
 
