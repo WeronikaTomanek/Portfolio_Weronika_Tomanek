@@ -12,18 +12,18 @@ I am looking forward to my first daily meeting as part of the team!
 ## Educational resources 📖
 
 * Sylabus ISTQB® Foundation Level
-* Tu się Testuje -> podcast, instagram
-* "Przepis na REST API" Olga Huzarewicz -> ebook
-* "AI w testowaniu oprogramowania" Cezary Łukasik -> ebook
-* https://getistqb.com/ -> ISTQB knowledge and quizzes
-* Rafał Podraza ->  udemy online courses, blog, YouTube
-* testuj.pl -> blog and support group on Facebook
+* Tu się Testuje ➡️ podcast, instagram
+* "Przepis na REST API" Olga Huzarewicz ➡️ ebook
+* "AI w testowaniu oprogramowania" Cezary Łukasik ➡️ ebook
+* https://getistqb.com/ ➡️ ISTQB knowledge and quizzes
+* Rafał Podraza ➡️  udemy online courses, blog, YouTube
+* testuj.pl ➡️ blog and support group on Facebook
   
 
 ## Courses 
 
 * SQL w 120 minut
-* Dare IT: zostań testerem manualnym| 2023 -> [whole work]https://github.com/WeronikaTomanek/challange_portfolio_Weronika/edit/main/README.md
+* Dare IT: zostań testerem manualnym| 2023 ➡️ [whole work] https://github.com/WeronikaTomanek/challange_portfolio_Weronika/edit/main/README.md
 * Umiejętności jutra (Google & SGH - marketing internetowy, zarządzanie projektami)|2023
 * Basic Scrum i Agile - „Udemy”|2023
 * Umiejętności miękkie i praca zespołowa - „Unicon”|2021
@@ -31,9 +31,12 @@ I am looking forward to my first daily meeting as part of the team!
 
 ## Project "Scout Panel" https://scouts-test.futbolkolektyw.pl/pl
 
-My test cases based on the Scout Panel application's exploratory testing -> https://docs.google.com/spreadsheets/d/1J-nkVVECo8uvTsgKOB_R2ewS4VMu0LWiVm8DK2wnXS8/edit#gid=0 
-Bugs -> https://docs.google.com/spreadsheets/d/10ALEwhpN4zQpzgcwVWldDd-N_220q063KdgfcjrnMm0/edit#gid=1481076662
-Bug report -> https://docs.google.com/spreadsheets/d/1J-nkVVECo8uvTsgKOB_R2ewS4VMu0LWiVm8DK2wnXS8/edit#gid=0
+My test cases based on the Scout Panel application's exploratory testing ➡️ https://docs.google.com/spreadsheets/d/1J-nkVVECo8uvTsgKOB_R2ewS4VMu0LWiVm8DK2wnXS8/edit#gid=0 
+
+Bugs ➡️ https://docs.google.com/spreadsheets/d/10ALEwhpN4zQpzgcwVWldDd-N_220q063KdgfcjrnMm0/edit#gid=1481076662
+
+
+Bug report ➡️ https://docs.google.com/spreadsheets/d/1J-nkVVECo8uvTsgKOB_R2ewS4VMu0LWiVm8DK2wnXS8/edit#gid=0
 
 
 ## Project OLX 
