@@ -33,7 +33,7 @@ I am looking forward to my first daily meeting as part of the team!
 # Tools
 
 * DevTools
-* Jira
+* [Jira](https://docs.google.com/document/d/1_WdCdfkTrgvuRAdTN4nUJ7HMCAj3prATKtekWcSbUn0/edit)
 * GitHub
 * Postman
 
