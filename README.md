@@ -9,16 +9,7 @@ I've learned ISTQB, basic tools, good testing practices and I'm ready to join th
 
 I am looking forward to my first daily meeting as part of the team! 
 
-## Educational resources 📖
 
-* Sylabus ISTQB® Foundation Level
-* Tu się Testuje ➡️ podcast, instagram
-* "Przepis na REST API" Olga Huzarewicz ➡️ ebook
-* "AI w testowaniu oprogramowania" Cezary Łukasik ➡️ ebook
-* https://getistqb.com/ ➡️ ISTQB knowledge and quizzes
-* Rafał Podraza ➡️  udemy online courses, blog, YouTube
-* testuj.pl ➡️ blog and support group on Facebook
-* SQL by Marcin Szeliga and Tomasz Libera.
   
 
 ## Skills & Projects
@@ -29,6 +20,16 @@ I am looking forward to my first daily meeting as part of the team!
 * [Reporting and verification of bugs in the native application](https://docs.google.com/spreadsheets/d/1PdGnuj49Zj73YG2Q62FylDRe15OB2CCj0W9ickUMHO0/edit#gid=1481076662)
 * [Managing bug reports](https://docs.google.com/spreadsheets/d/1CFPBfeDIGuUDotiiX03MKVehhM-S0EG5gjzf-5z-3DI/edit#gid=0)
 
+## Educational resources 📖
+
+* Sylabus ISTQB® Foundation Level
+* Tu się Testuje ➡️ podcast, instagram
+* "Przepis na REST API" Olga Huzarewicz ➡️ ebook
+* "AI w testowaniu oprogramowania" Cezary Łukasik ➡️ ebook
+* https://getistqb.com/ ➡️ ISTQB knowledge and quizzes
+* Rafał Podraza ➡️  udemy online courses, blog, YouTube
+* testuj.pl ➡️ blog and support group on Facebook
+* SQL by Marcin Szeliga and Tomasz Libera.
   
 # Tools
 
