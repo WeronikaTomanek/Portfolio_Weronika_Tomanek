@@ -31,7 +31,7 @@ I am looking forward to my first daily meeting as part of the team!
 * testuj.pl ➡️ blog and support group on Facebook
 * SQL by Marcin Szeliga and Tomasz Libera.
   
-# Tools
+# Tools 🛠️
 
 * DevTools
 * [Jira](https://docs.google.com/document/d/1_WdCdfkTrgvuRAdTN4nUJ7HMCAj3prATKtekWcSbUn0/edit)
