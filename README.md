@@ -17,7 +17,7 @@ I am looking forward to my first daily meeting as part of the team!
 * [SQL basics for the tester](https://docs.google.com/document/d/1sWeX96ksKCR7NOq2YFnBefuXdphZ7rvC1_ev4jo9BFI/edit)
 * [Reporting and verifying software bugs](https://docs.google.com/spreadsheets/d/1J-nkVVECo8uvTsgKOB_R2ewS4VMu0LWiVm8DK2wnXS8/edit#gid=1771874689)
 * [Writing test cases](https://docs.google.com/spreadsheets/d/1J-nkVVECo8uvTsgKOB_R2ewS4VMu0LWiVm8DK2wnXS8/edit#gid=0)
-* [Reporting and verification of bugs in the native application](https://docs.google.com/spreadsheets/d/1PdGnuj49Zj73YG2Q62FylDRe15OB2CCj0W9ickUMHO0/edit#gid=1481076662)
+* [Reporting and verifying native application bugs](https://docs.google.com/spreadsheets/d/1PdGnuj49Zj73YG2Q62FylDRe15OB2CCj0W9ickUMHO0/edit#gid=1481076662)
 * [Managing bug reports](https://docs.google.com/spreadsheets/d/1CFPBfeDIGuUDotiiX03MKVehhM-S0EG5gjzf-5z-3DI/edit#gid=0)
 
 ## Educational resources 📖
