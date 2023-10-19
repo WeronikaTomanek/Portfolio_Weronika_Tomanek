@@ -5,7 +5,7 @@ Dear Recruiter,
 
 I encourage you to take a look at my porflio.
 
-I have 5 years of experience in administrative work and customer service. While being administration specialist, I discovered and started testing software! How is this possible? 🤔  The company I was working for was implementing a CRM system. And I spent 2 years testing the modules of the registration and contracts department. Beta-testing, retesting, reporting bugs, analysing how to make the system more efficient - it is my thing ❤️ !
+I have 5 years of experience in administrative work and customer service. While being administration specialist, I discovered and started testing software! How is this possible? 🤔  The company I was working for was implementing a CRM system. I spent 2 years testing the modules of the registration and contracts department. Beta-testing, retesting, reporting bugs, analysing how to make the system more efficient - it is my thing ❤️ !
 
 I have learned ISTQB, basic tools, good testing practices and I'm ready to join the team to work as a Junior Tester (with ambitions to become an Automation Tester 🧠 📖 💻 ).
 
