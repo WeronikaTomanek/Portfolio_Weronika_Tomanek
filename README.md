@@ -43,9 +43,10 @@ I am looking forward to my first daily meeting as part of the team!
 
 ## Courses 
 
+* "Testy automatyczne z Playwright" ➡️ jaktestować.pl | ***in progress*** 
 * Dare IT: become a manual tester | 2023 ➡️ [challange portfolio](https://github.com/WeronikaTomanek/challange_portfolio_Weronika/edit/main/README.md)
-* Skills of tomorrow (Google & SGH - digital marketing, project management)|2023
-* Basic Scrum i Agile - „Udemy”|2023
-* Soft skills and team working - „Unicon”|2021
-* MICROSOFT EXCEL - „Prolearning”| 2019
+* Skills of tomorrow (Google & SGH ➡️ digital marketing, project management)|2023
+* Basic Scrum i Agile ➡️ „Udemy”|2023
+* Soft skills and team working ➡️ „Unicon”|2021
+* MICROSOFT EXCEL ➡️ „Prolearning”| 2019
 
