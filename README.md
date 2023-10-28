@@ -51,3 +51,8 @@ I am looking forward to my first daily meeting as part of the team!
 * Soft skills and team working ➡️ „Unicon”|2021
 * MICROSOFT EXCEL ➡️ „Prolearning”| 2019
 
+## My first steps 👣 ➡️ Automation 
+
+* [Learning JS](https://docs.google.com/document/d/1bjmATR7u9OoSQpLgu4hzvPduyPu17xuaDHsnlJFczj0/edit?usp=sharing)
+  
+
