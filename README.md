@@ -60,5 +60,5 @@ Tools:
 
 ## Conferences 
 
-*Tester Summit 2023 : From the BiQ (Built-in Quality) concept to the future with AI
+*Tester Summit 2023
 
