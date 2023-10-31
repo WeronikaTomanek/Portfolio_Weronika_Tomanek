@@ -58,3 +58,7 @@ I am looking forward to my first daily meeting as part of the team!
 Tools:
 🛠️ Node 🛠️ Visual Studio Code
 
+## Conferences 
+
+*Tester Summit 2023 : From the BiQ (Built-in Quality) concept to the future with AI
+
