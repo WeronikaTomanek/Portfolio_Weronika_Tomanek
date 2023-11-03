@@ -60,5 +60,5 @@ Tools:
 
 ## Conferences 
 
-*Tester Summit 2023
+* Tester Summit 2023
 
