@@ -3,14 +3,13 @@
 
 Dear Recruiter, 
 
-I encourage you to take a look at my porflio.
+I invite you to explore my portfolio.
 
-I have 5 years of experience in administrative work and customer service. While being administration specialist, I discovered and started testing software! How is this possible? 🤔  The company I was working for was implementing a CRM system. I spent 2 years testing the modules of the registration and contracts department. Beta-testing, retesting, reporting bugs, analysing how to make the system more efficient - it is my thing ❤️ !
+With 6 years of experience in administrative work and customer service, I have developed a unique path into software testing. While working as an Administration Specialist, I had the opportunity to engage in software testing. How did that happen? 🤔 The company I worked for was in the process of implementing a CRM system. During this journey, I spent two years rigorously testing the modules within the registration and contracts department. From beta-testing to retesting, reporting bugs, and analyzing ways to enhance system efficiency, it became my passion ❤️ !
 
-I have learned ISTQB, basic tools, good testing practices and I'm ready to join the team to work as a Junior Tester (with ambitions to become an Automation Tester 🧠 📖 💻 ).
+I have obtained ISTQB certification, mastered essential tools, and embraced best testing practices. I'm enthusiastic about joining your team as a Junior Tester (with a strong desire to grow into an Automation Tester 🧠 📖 💻 ).
 
-I am looking forward to my first daily meeting as part of the team! 
-
+I can't wait for my first daily team meeting!
 
   
 
