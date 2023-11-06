@@ -7,7 +7,8 @@ I invite you to explore my portfolio.
 
 With 6 years of experience in administrative work and customer service, I have developed a unique path into software testing. While working as an Administration Specialist, I had the opportunity to engage in software testing. How did that happen? 🤔 The company I worked for was in the process of implementing a CRM system. During this journey, I spent two years rigorously testing the modules within the registration and contracts department. From beta-testing to retesting, reporting bugs, and analyzing ways to enhance system efficiency, it became my passion ❤️ !
 
-I have obtained ISTQB certification, mastered essential tools, and embraced best testing practices. I'm enthusiastic about joining your team as a Junior Tester (with a strong desire to grow into an Automation Tester 🧠 📖 💻 ).
+I have obtained ISTQB certification, mastered essential tools, and embraced best testing practices. 
+I'm enthusiastic about joining your team as a Junior Tester (with a strong desire to grow into an Automation Tester 🧠 📖 💻 ).
 
 I can't wait for my first daily team meeting!
 
