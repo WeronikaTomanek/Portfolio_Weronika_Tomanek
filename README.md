@@ -31,6 +31,7 @@ I can't wait for my first daily team meeting!
 * Rafał Podraza ➡️  udemy online courses, blog, YouTube
 * testuj.pl ➡️ blog and support group on Facebook
 * SQL by Marcin Szeliga and Tomasz Libera.
+* English with Tech Girl ➡️ podcast
   
 # Tools 🛠️
 
