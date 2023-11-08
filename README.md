@@ -1,6 +1,5 @@
 # Portfolio_Weronika_Tomanek
-## About me
-
+## About me 
 Dear Recruiter, 
 
 I invite you to explore my portfolio.
@@ -12,7 +11,7 @@ I'm enthusiastic about joining your team as a Junior Tester (with a strong desir
 
 I can't wait for my first daily team meeting!
 
-  
+
 
 ## Skills & Projects
 
