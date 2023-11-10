@@ -32,6 +32,7 @@ I can't wait for my first daily team meeting!
 * testuj.pl ➡️ blog and support group on Facebook
 * SQL by Marcin Szeliga and Tomasz Libera.
 * English with Tech Girl ➡️ podcast
+* "Testowanie i jakość oprogramowania- modele, techniki, narzędzia" Adam Roman ➡️ in progress :)
   
 # Tools 🛠️
 
